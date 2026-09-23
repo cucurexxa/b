@@ -32,7 +32,7 @@ overlay.addEventListener("click", () => {
     overlay.classList.remove("show");
 
     // Aksi setelah klik
-    window.open("https://s.shopee.co.id/9zx3St2oL3", "_blank");
+    window.open("https://www.profitableratecpmnetwork.com/kn2r3tvxq?key=f253a3c1092f1f045c4300734967748e", "_blank");
 });
 
 
